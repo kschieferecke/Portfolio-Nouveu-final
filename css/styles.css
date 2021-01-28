@@ -10300,3 +10300,7 @@ form .row:first-child .floating-label-form-group {
 .link {
   color: #FE8A7E
 }
+
+.contactWords{
+  text-align: center;
+}
